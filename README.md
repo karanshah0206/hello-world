@@ -13,3 +13,6 @@ By now, I've pretty much crossed the GitHub learning curve. The only thing that'
 
 Update: 17 April 2020
 On 12 April 2020, I posted my first issue on GitHub, for the Type To Write rep. On 14 April, I started another issue, which - much to my surprise - was found by a random user on GitHub, which stunned me since I never shared the link of my GitHub site to anyone, which means people were looking for my rep and thus led to me. Anyhow, today that issue was closed, much thanks to the guy who found it too (his GitHub name is Krrish). This is my first closed issue (the first issue remains open at yet). The true power of GitHub... I'm realizing only now. What I logged into just for fun has now become my new hobby.
+
+Update: 10 August 2020
+It's been a very long time since I updated this log, so thought might as well do it today. It's been quite a while since the last post, and a ton of work has developed since then. Especially, my interest in the video conferencing territory and the dozen repositories I created just to explore the various methods, extensions, and SDKs which make video conferencing easier. Apart from that, I've beem working on just random projects like drawing web app, React-based Cost Manager, and an Angular/DotNet based Dating App.
