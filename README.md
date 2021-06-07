@@ -16,3 +16,6 @@ On 12 April 2020, I posted my first issue on GitHub, for the Type To Write rep. 
 
 Update: 10 August 2020
 It's been a very long time since I updated this log, so thought might as well do it today. It's been quite a while since the last post, and a ton of work has developed since then. Especially, my interest in the video conferencing territory and the dozen repositories I created just to explore the various methods, extensions, and SDKs which make video conferencing easier. Apart from that, I've beem working on just random projects like drawing web app, React-based Cost Manager, and an Angular/DotNet based Dating App.
+
+Update 7 June 2021
+If you see my timeline, it may appear that I haven't been coding for a while. That's not true, just not been using Github for a lot of things as I've stopped putting relatively smaller programs on Github as it may end up taking more time than being helpful. College has put quite some workload, which also resulted in relatively fewer creative independent projects. However, I have put the cryptocurrency I created from scratch: Swincoin on Github, let's see what kind of traffic that gets.
